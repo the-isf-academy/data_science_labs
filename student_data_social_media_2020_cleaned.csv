@@ -2,7 +2,6 @@ grade,gender,number_of_ccas,parental_controls,most_used_platform
 Grade 7,Female,3,Yes,Instagram
 Grade 9,Female,1,Yes,Instagram
 Grade 7,Male,4,Yes,Youtube
-Grade 6,Toad,3,No,Youtube
 Grade 6,Male,1,No,Youtube
 Grade 11,Female,0,No,Instagram
 Grade 8,Female,1,No,Discord
@@ -31,7 +30,6 @@ Grade 6,Male,4,No,Youtube
 Grade 8,Male,2,No,Other
 Grade 11,Female,2,No,Discord
 Grade 9,Female,0,No,Youtube
-Grade 8,,1,No,Instagram
 Grade 11,Male,1,No,Youtube
 Grade 6,Female,1,Yes,Other
 Grade 11,Female,3,No,Discord
